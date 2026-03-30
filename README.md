@@ -40,7 +40,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Samar-Upreti/Samar-Upreti/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
