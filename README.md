@@ -15,7 +15,7 @@
 - 💳 Integrated Razorpay Payment Gateway  
 - 📊 Using Google Sheets as backend  
 - 🌱 Learning **Python & Data Structures & Algorithms**  
-- 🎯 Focused on becoming a strong backend developer  
+- 🎯 Focused on becoming a strong backend developer 
 
 ---
 
